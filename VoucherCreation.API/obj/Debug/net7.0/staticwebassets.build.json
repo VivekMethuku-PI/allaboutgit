@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U1CKKj6aoLa1/LI4CaiiB+eZ7B62WwMR2ismkjq4rzE=",
+  "Source": "VoucherCreation.API",
+  "BasePath": "_content/VoucherCreation.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

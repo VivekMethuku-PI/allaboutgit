@@ -1,0 +1,3 @@
+[submodule "piVMS_Common_BAL"]
+	path = piVMS_Common_BAL
+	url = https://github.com/PI-ComputerServices/piVMS_Common_BAL.git

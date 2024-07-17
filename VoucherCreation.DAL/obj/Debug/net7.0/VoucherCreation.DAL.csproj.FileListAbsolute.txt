@@ -1,0 +1,15 @@
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\bin\Debug\net7.0\VoucherCreation.DAL.deps.json
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\bin\Debug\net7.0\VoucherCreation.DAL.runtimeconfig.json
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\bin\Debug\net7.0\VoucherCreation.DAL.dll
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\bin\Debug\net7.0\VoucherCreation.DAL.pdb
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.csproj.AssemblyReference.cache
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.AssemblyInfoInputs.cache
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.AssemblyInfo.cs
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.csproj.CoreCompileInputs.cache
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.sourcelink.json
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.dll
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\refint\VoucherCreation.DAL.dll
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.pdb
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\VoucherCreation.DAL.genruntimeconfig.cache
+D:\opensource\piVMS_Creation_API\VoucherCreation.DAL\obj\Debug\net7.0\ref\VoucherCreation.DAL.dll
